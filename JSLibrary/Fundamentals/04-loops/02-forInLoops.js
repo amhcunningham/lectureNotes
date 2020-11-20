@@ -1,6 +1,6 @@
 //good for working through objects and arrays
 //each depend on something being true
-//does not require the thing you loop be numbered
+//does not require the thing you loop be numbered 
 
 let student = {name: 'Angie', awesome: true, degree: 'javascript', week: 1};
 
