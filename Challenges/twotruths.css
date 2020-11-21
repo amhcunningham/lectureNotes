@@ -1,0 +1,49 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.wrapper {
+    border: solid 35px;
+    border-radius: 50%;
+    background-color: grey;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.truthOne {
+    border: solid 10px;
+    border-radius: 15%;
+    background-color: lightgrey;
+    padding: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.truthTwo {
+    border: solid 10px;
+    border-radius: 15%;
+    background-color: lightgrey;
+    padding: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.truthThree {
+    border: solid 10px;
+    border-radius: 15%;
+    background-color: lightgrey;
+    padding: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
