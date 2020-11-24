@@ -20,7 +20,7 @@ if(weather > 70 && typeof weather === "number") {
 //more complex than a light switch tool, can check for lots of conditions with a single block of code
 //if/elseif statements can be chained
 
-let age = 18;
+let age = 17;
 if(age >= 25) {
     console.log("Here, have a rental car.");
 } else if(age >= 21) {
